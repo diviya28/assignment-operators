@@ -1,0 +1,14 @@
+Assignment Operators:
+
+Assignment operators are used to assign values to variables.
+operators:
+=, +=, -=, *=, %=, **=, /=, //=, &=, |=, ^=, >>=, <<=
+
+example:
+a=0
+for i in range(1,5):
+  a+= i
+print(a)
+
+Output:
+a=15
